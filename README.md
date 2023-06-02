@@ -14,7 +14,6 @@ Student
 
 * 🌍  I'm based in Champadanga, West Bengal, India.
 * ✉  You can contact me at [subhadipdutta002003@gmail.com](mailto:subhadipdutta002003@gmail.com)
-* 🧠  I'm learning Cyber Security and Kali Linux right now
 * 🤝  I'm open to collaborating on interesting projects
 
 
